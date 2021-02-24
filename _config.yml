@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Share Budget with Others
     description                           : Invite others to view and enter transactions.
-    fontawesome_icon_name                 : user-plus
+    fontawesome_icon_name                 : user-friends
 
   - title                                 : Save to iCloud
     description                           : Your data is stored safely on iCloud.
