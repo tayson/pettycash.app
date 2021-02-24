@@ -34,29 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Zero-Based Budget
+    description                           : Assign a job to every dollar and create a monthly budget in 5 minutes.
+    fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Share Budget with Others
+    description                           : Invite others to view and enter transactions.
+    fontawesome_icon_name                 : user-plus
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Save to iCloud
+    description                           : Your data is stored safely on iCloud.
+    fontawesome_icon_name                 : cloud
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Expense Chart
+    description                           : Visualize your spending and see where your money is going.
+    fontawesome_icon_name                 : chart-pie
 
-  - title                                 : # Easy to Tweak
-    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # adjust
+  - title                                 : CSV Export
+    description                           : Export your transactions to Excel, Google Sheets, and Numbers.
+    fontawesome_icon_name                 : file-csv
 
-  - title                                 : # Feature List
-    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # star
+  - title                                 : Face ID Lock
+    description                           : Hide sensitive data and require authentication to unlock.
+    fontawesome_icon_name                 : lock
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.
