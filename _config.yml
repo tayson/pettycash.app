@@ -42,7 +42,7 @@ features                                  :
     description                           : Invite others to view and enter transactions.
     fontawesome_icon_name                 : user-friends
 
-  - title                                 : Save to iCloud
+  - title                                 : iCloud Sync
     description                           : Your data is stored safely on iCloud.
     fontawesome_icon_name                 : cloud
 
