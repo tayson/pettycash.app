@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Use
+title: Terms
 include_in_header: false
 ---
 
